@@ -1,2 +1,4 @@
 #-*- coding:utf-8 -*-
-this is a text
+#1/usr/bin/env python
+this is a test
+
