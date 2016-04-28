@@ -1,1 +1,2 @@
-this is a test
+#-*- coding:utf-8 -*-
+this is a text
